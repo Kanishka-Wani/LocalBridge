@@ -71,37 +71,37 @@ The aim of **LocalBridge** is to bridge the communication gap between citizens a
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="screenshots/homepage.png" alt="Home Page" width="400"/>
+  <img src="screenshots/homepage.png" alt="Home Page" width="500"/>
 </p>
 
 ### 🧾 Report an Issue
 <p align="center">
-  <img src="screenshots/report_issue.png" alt="Report an Issue" width="400"/>
+  <img src="screenshots/report_issue.png" alt="Report an Issue" width="500"/>
 </p>
 
 ### 👀 See Issue Details
 <p align="center">
-  <img src="screenshots/see_details.png" alt="See Details" width="400"/>
+  <img src="screenshots/see_details.png" alt="See Details" width="500"/>
 </p>
 
 ### ✅ Success Stories
 <p align="center">
-  <img src="screenshots/successstories.png" alt="Success Stories" width="400"/>
+  <img src="screenshots/successstories.png" alt="Success Stories" width="500"/>
 </p>
 
 ### 🔐 Sign In
 <p align="center">
-  <img src="screenshots/signin.jpg" alt="Sign In Page" width="400"/>
+  <img src="screenshots/signin.jpg" alt="Sign In Page" width="500"/>
 </p>
 
 ### 🆕 Sign Up
 <p align="center">
-  <img src="screenshots/signup.jpg" alt="Sign Up Page" width="400"/>
+  <img src="screenshots/signup.jpg" alt="Sign Up Page" width="500"/>
 </p>
 
 ### ℹ️ About Us
 <p align="center">
-  <img src="screenshots/aboutus.png" alt="About Us Page" width="400"/>
+  <img src="screenshots/aboutus.png" alt="About Us Page" width="500"/>
 </p>
 
 ---
